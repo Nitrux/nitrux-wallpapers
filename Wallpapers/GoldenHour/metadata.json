@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Aswin"
+            }
+        ],
+        "Id": "GoldenHour",
+        "Name": "Golden Hour",
+        "Name[es]": "Hora Dorada"
+    }
+}

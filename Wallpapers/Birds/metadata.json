@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Hendrik Kespohl"
+            }
+        ],
+        "Id": "Birds",
+        "Name": "Birds",
+        "Name[es]": "Aves"
+    }
+}

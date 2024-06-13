@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Steve jhonson"
+            }
+        ],
+        "Id": "Cadmium",
+        "Name": "Cadmium",
+        "Name[es]": "Cadmio"
+    }
+}

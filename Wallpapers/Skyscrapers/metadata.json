@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jason Wong"
+            }
+        ],
+        "Id": "Skyscrapers",
+        "Name": "Skyscrapers",
+        "Name[es]": "Rascacielos"
+    }
+}

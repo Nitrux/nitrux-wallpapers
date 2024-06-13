@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jhon Salvio"
+            }
+        ],
+        "Id": "HighBuilding",
+        "Name": "High Building",
+        "Name[es]": "Edifcio Alto"
+    }
+}

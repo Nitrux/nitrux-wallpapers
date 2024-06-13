@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Xrdes"
+            }
+        ],
+        "Id": "MultiStore",
+        "Name": "Multi Store",
+        "Name[es]": "Multi Pisos"
+    }
+}
