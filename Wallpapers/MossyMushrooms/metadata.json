@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xenwildman@gmail.com",
+                "Name": "Xen Wildman"
+            }
+        ],
+        "Id": "MossyMushrooms",
+        "License": "CC BY-SA 4.0",
+        "Name": "Mossy Mushrooms",
+        "Name[es]": "Hongos Musgosos"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Jhon Weinhardt"
+            }
+        ],
+        "Id": "GreenLeaves",
+        "Name": "Green Leaves",
+        "Name[es]": "Hojas Verdes"
+    }
+}

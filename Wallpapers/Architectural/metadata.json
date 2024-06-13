@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Cesira Alvarado"
+            }
+        ],
+        "Id": "Architectural",
+        "Name": "Architectural",
+        "Name[es]": "Architectural"
+    }
+}

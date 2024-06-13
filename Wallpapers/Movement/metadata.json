@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Nikolay Trebukhin"
+            }
+        ],
+        "Id": "Movement",
+        "Name": "Movement",
+        "Name[es]": "Movimiento"
+    }
+}
