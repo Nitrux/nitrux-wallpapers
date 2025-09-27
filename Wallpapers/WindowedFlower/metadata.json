@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Julian Hochgesang"
+            }
+        ],
+        "Id": "WindowedFlower",
+        "Name": "Windowed Flower",
+        "Name[es]": "Flor de Ventana"
+    }
+}

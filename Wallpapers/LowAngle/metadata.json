@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Anders Jilden"
+            }
+        ],
+        "Id": "LowAngle",
+        "Name": "Low Angle",
+        "Name[es]": "Angulo Bajo"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Denis Agati"
+            }
+        ],
+        "Id": "Green",
+        "Name": "Greeb",
+        "Name[es]": "Verde"
+    }
+}

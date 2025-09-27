@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alvaro Pinot"
+            }
+        ],
+        "Id": "Arcs",
+        "Name": "Arcos",
+        "Name[es]": "Arcos"
+    }
+}
