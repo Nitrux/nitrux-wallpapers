@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xenwildman@gmail.com",
+                "Name": "Xen Wildman"
+            }
+        ],
+        "Id": "Leaf",
+        "License": "CC BY-SA 4.0",
+        "Name": "Leaf",
+        "Name[es]": "Hoja"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Ricardo Gomez Angel"
+            }
+        ],
+        "Id": "Arcs",
+        "Name": "Gray Building",
+        "Name[es]": "Edificio Gris"
+    }
+}

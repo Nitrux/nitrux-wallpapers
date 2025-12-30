@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Sergii Bozhko"
+            }
+        ],
+        "Id": "IbisHotel",
+        "Name": "Ibis Hotel",
+        "Name[es]": "Hotel Ibis"
+    }
+}
