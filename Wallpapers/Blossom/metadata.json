@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "uri_herrera@nxos.org",
+                "Name": "Uri Herrera",
+                "Name[es]": "Uri Herrera",
+                "Name[x-test]": "xxUri Herreraxx"
+            }
+        ],
+        "Id": "Blossom",
+        "License": "CC BY-NC-ND 4.0",
+        "Name": "Blossom",
+        "Name[es]": "Blossom",
+        "Name[x-test]": "xxBlossomxx"
+    }
+}
