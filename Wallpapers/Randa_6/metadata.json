@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "uri_herrera@nxos.org",
+                "Name": "Uri Herrera"
+            }
+        ],
+        "Id": "White_Flowers",
+        "License": "CC BY-SA 4.0",
+        "Name": "White Flowers",
+        "Name[es]": "Flores Blancas"
+    }
+}

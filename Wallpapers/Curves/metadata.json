@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Andre Roma"
+            }
+        ],
+        "Id": "Curves",
+        "Name": "Curves",
+        "Name[es]": "Curvas"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "xenwildman@gmail.com",
+                "Name": "Xen Wildman"
+            }
+        ],
+        "Id": "DollyH",
+        "License": "CC BY-SA 4.0",
+        "Name": "Dolly Harbor",
+        "Name[es]": "Puerto Dolly"
+    }
+}

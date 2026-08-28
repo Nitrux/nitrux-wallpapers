@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Parker Jhonson"
+            }
+        ],
+        "Id": "BlueSky",
+        "Name": "Blue Sky",
+        "Name[es]": "Cielo Azul"
+    }
+}

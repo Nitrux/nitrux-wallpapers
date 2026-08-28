@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Adiren Converse"
+            }
+        ],
+        "Id": "Swirls",
+        "Name": "Swirls",
+        "Name[es]": "Remolinos"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Uri Herrera"
+            }
+        ],
+        "Id": "KDESuite_2",
+        "Name": "Nitrux Dark (KDE Suite)",
+        "Name[es]": "Nitrux Oscuro (Suite para KDE)"
+    }
+}

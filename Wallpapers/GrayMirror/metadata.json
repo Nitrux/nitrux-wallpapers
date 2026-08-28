@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Luca Bravo"
+            }
+        ],
+        "Id": "GrayMirror",
+        "Name": "Gray Mirror",
+        "Name[es]": "Espejo Gris"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Carlos Quintero"
+            }
+        ],
+        "Id": "Chrysanthemum",
+        "Name": "Chrysanthemum",
+        "Name[es]": "Crisantemo"
+    }
+}
