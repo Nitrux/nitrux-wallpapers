@@ -1,8 +1,14 @@
+nitrux-wallpapers (0.1.5) nitrux; urgency=medium
+
+  * Update Blossom and add 1440p image.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Tue, 01 Sep 2026 01:43:00 -0500
+
 nitrux-wallpapers (0.1.4) nitrux; urgency=medium
 
   * Add new wallpaper.
 
- -- Uri Herrera <uri_herrera@nxos.org>  Fri, 21 Aug 2025 04:55:00 -0500
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 21 Aug 2026 04:55:00 -0500
 
 nitrux-wallpapers (0.1.3) nitrux; urgency=medium
 
